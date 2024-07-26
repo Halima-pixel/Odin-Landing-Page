@@ -126,7 +126,26 @@ gap: 16px;
     gap: 8px;
 }
 
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    max-width: 700px;
+}
+
+.author {
+    display: flex;
+    align-self: flex-end;
+    width: 400px ;  
+    font-weight: bold;
+}
+
 .quote-author {
-
-
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #E5E7EB;
+    margin-bottom: 80px;
+    padding: 70px;
 }
