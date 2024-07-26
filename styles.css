@@ -43,9 +43,11 @@ ul {
     display: flex;
     max-width: 300px;
     height: 130px;
-    background-color: #afb0b4;
+    background-color: #484849;
     align-items: center;
     justify-content: center;
+    color:  #E5E7EB;
+    font-weight: 400;
 
 }
 
