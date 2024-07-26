@@ -1,3 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+
+.left-link {
+    display: flex;
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+     gap: 32px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.website {
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #F9FAF8
+}
+
+.subtext {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.subtext.sign-up {
+    background-color: #3882F6;
+    max-width: 50px;
+}
+
+
 .hero {
-    background-color: #1f2937
+    background-color: #1F2937;
 }
