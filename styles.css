@@ -39,6 +39,16 @@ ul {
     border-radius: 10px;
 }
 
+.placeholder {
+    display: flex;
+    max-width: 300px;
+    height: 130px;
+    background-color: #afb0b4;
+    align-items: center;
+    justify-content: center;
+
+}
+
 
 .hero {
     background-color: #1F2937;
