@@ -33,7 +33,10 @@ ul {
 
 .subtext.sign-up {
     background-color: #3882F6;
-    max-width: 50px;
+    max-width: 100px;
+    text-align: center;
+    padding: 5px;
+    border-radius: 10px;
 }
 
 
